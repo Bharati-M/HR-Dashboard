@@ -17,3 +17,13 @@ To visualize and analyze HR data to identify patterns in employee attrition, per
 
 ## Dashboard Iteraction
 <a href="https://github.com/Bharati-M/HR-Dashboard/blob/main/HR%20Dashboard.pbix">View Dashboard</a>
+
+## Process
+- Loading data into Power BI and cleaning it with Power Query
+- Creating HR metrics like avg.salary, headcount etc.
+- Adding columns to the data.
+- Finding relationship between salary and education qualification.
+- Using visual filters to see top/bottom paid staff in each job.
+- Customizing visuals in power BI.
+  
+  
