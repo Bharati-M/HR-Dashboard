@@ -15,5 +15,5 @@ To visualize and analyze HR data to identify patterns in employee attrition, per
 - Leave balance analysis
 - Quick HR Dashboard
 
-##Dashboard Iteraction
+## Dashboard Iteraction
 <a href="https://github.com/Bharati-M/HR-Dashboard/blob/main/HR%20Dashboard.pbix">View Dashboard</a>
