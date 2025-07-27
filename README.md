@@ -4,8 +4,8 @@ To visualize and analyze HR data to identify patterns in employee attrition, per
 ## Dataset used.
 - <a href="https://github.com/Bharati-M/HR-Dashboard/blob/main/hr-data.xlsx">Dataset</a>
 ## Questions (KPIs)
-How many people are in each job?
-Gender break-down of the staff
+- How many people are in each job?
+- Gender break-down of the staff
 Age spread of the staff
 Which jobs pay more?
 Top earners in each job
